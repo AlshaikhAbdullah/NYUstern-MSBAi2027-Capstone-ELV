@@ -1,4 +1,4 @@
-# Capstone-Project-ELV-MSBAi-2027
+# NYUstern-MSBAi2027-Capstone-ELV
 # The Global ELV Recycling Gap
 
 > Quantifying, predicting, and prescribing solutions to the global end-of-life vehicle (ELV) recycling gap.
